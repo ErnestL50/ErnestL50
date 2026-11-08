@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 New here, I’m currently learning Cloud technology!
+I'm a Systems and Network Engineer as well as IT Director
